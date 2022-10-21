@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '恋恋', year: '2002', date: '07-05',
+          type: '*生日', name: '老婆', year: '2002', date: '07-05',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
@@ -42,7 +42,7 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2021-03-26' },
+        { keyword: 'love_day', date: '2022-03-26' },
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
       ],
