@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '3b476493cf1aac9b67b4c79a52c57e93',
 
   PROVINCE: '安徽',
-  CITY: '合肥',
+  CITY: '黄山',
 
   USERS: [
     {
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oWtUy5wRHhfLI_QNkrq67d3I2qcw',
     }
   ],
 
